@@ -6,6 +6,9 @@
       text-align: center;
        width: 245px;
        height: 140px; 
+       position: relative; 
+       top: 10px;
+       left: 10px;
       }
 
 #highlight { background-color: #91c8ff; font-weight: bold;
