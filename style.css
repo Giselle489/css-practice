@@ -11,9 +11,11 @@
        left: 10px;
       }
 
-#highlight { background-color: #91c8ff; font-weight: bold;
+#highlight { background-color: #91c8ff; 
+            font-weight: bold;
            }
 
-.hover-box:hover { background-color: #ff9ce8; font-family: sans-serif;
+.hover-box:hover { background-color: #ff9ce8; 
+                  font-family: sans-serif;
            }
        
